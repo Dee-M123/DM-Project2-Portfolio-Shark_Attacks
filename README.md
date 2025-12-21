@@ -38,26 +38,33 @@ In line with the American thrill chasing life, men are also knowing to dive head
 **Findings:**
 
     H1: American and not Australia, has the highest number of shark related attacks. 
-    
     H2: Apparently, everything that can kill is really in Australia, it is the location with the highest number of deaths due to shark attacks. 
-    
     H3: Of the top three countries by shark attacks, America has the highest record of shark related incidents by provocation
-    
     H4: Men definitely find ways to live shorter lives, they have the highest record of shark related deaths.
 
 Additionally, the analysis also found that the great white shark is the most common shark species when it comes to attacks. 
 
 **Project Structure:** 
     ├── Data
+    
     │   ├── raw_data
+    
     │   └── cleaned_data
+    
     ├── Notebooks
+    
     │   ├── EDA1.ipynb
+    
     │   ├── Cleaning2.ipynb
+    
     │   └── Analytics3.ipynb
+    
     ├── Reports
+    
     │   ├── slides
+    
     │   └── images
+    
     └── README.md 
 
 **How to Run the Project:**
